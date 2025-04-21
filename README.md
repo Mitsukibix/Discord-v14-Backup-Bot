@@ -54,7 +54,7 @@ Discord sunucunuzun tam yedeklerini almanızı ve yönetmenizi sağlayan gelişm
 
 1. Repoyu klonlayın:
    ```
-   git clone https://github.com/kullanici/discord-backup-bot.git
+   git clone https://github.com/Mitsukibix/Discord-v14-Backup-Bot.git
    cd discord-backup-bot
    ```
 
