@@ -87,7 +87,4 @@ Discord sunucunuzun tam yedeklerini almanızı ve yönetmenizi sağlayan gelişm
 - Yedekler şifreyle korunabilir, bu şifrelerin güvenli bir şekilde saklanması sizin sorumluluğunuzdadır.
 - Yedeğin içindeki tüm yapılar (roller, kanallar vs.) yedeklendiği için, bot yönetici izinleri gerektirmektedir.
 - Yalnızca güvendiğiniz kişilere bot yönetici izni verin.
-
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın. 
+ 
